@@ -1,3 +1,5 @@
+BANK CUSTOMER ANALYSIS
+
 The bank wants to identify its target customer segment based on key financial and demographic attributes such as age, gender, job classification, and region. The goal is to analyze customer balances and identify which segment holds the highest financial value to improve marketing and financial strategies.
 
 1.Visual Insights:
